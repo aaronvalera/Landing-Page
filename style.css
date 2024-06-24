@@ -48,7 +48,6 @@ ul {
 
 .main-text {
     font-size: 48px;
-    font-weight: bolder;
     color: #F9FAF8;
     width: 400px;
 }
@@ -83,5 +82,48 @@ button,
     align-items: center;
 }
 
+.info-header,
+.main-text {
+    font-weight: bolder;
+}
 
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+    margin: 50px 0px;
+}
 
+.media-object {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.phs,
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.phs {
+    gap: 50px;
+}
+
+.body {
+    gap: 46px;
+}
+
+.ph {
+    border: 3px solid #3882F6;
+    width: 180px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.content {
+    color: #4d4f50;
+    font-size: 18px;
+    width: 190px;  
+}
