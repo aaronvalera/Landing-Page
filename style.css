@@ -54,20 +54,21 @@ ul {
 
 .sec-text {
     width: 480px;
+    margin-bottom: 18px;
 }
 
-button {
+.su {
     width: 100px;
     color: #F9FAF8;
     font-weight: 900;
     font-size: 16px;
     border: 1px solid #214d95;
-    border-radius: 6px;
-    padding: 4px 10px;
-    margin-top: 12px;
+    border-radius: 18px;
+    padding: 6px 36px;
+    text-decoration: none;
 }
 
-button,
+.su,
 .c-t-a {
     background-color: #3882F6;    
 }
