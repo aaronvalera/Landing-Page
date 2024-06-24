@@ -196,3 +196,12 @@ ul {
     border-radius: 24px;
     color: #F9FAF8;
 }
+
+.footer {
+    color: #F9FAF8;
+    font-size: 18x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
